@@ -18,7 +18,8 @@
 
 ---
 
-### :bookmark: This is a great little application when you are working alone on projects where you need to organize your tasks, as well as track the time you spend on a project to know the actual time you spent on it.
+### :bookmark: This is the software version for Linux, Mac & Windows computers, if you want to use the web version (PWA) it's [here](https://github.com/rodolphe37/my-simple-tasks-manager-)
+
 
 
 
