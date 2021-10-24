@@ -70,47 +70,47 @@
 
 ### Installation:
 
-![alt text](demo/linux/install3.png "My Simple Tasks Manager")
+>![alt text](demo/linux/install3.png "My Simple Tasks Manager")
 
 ### Start the widget:
 
-![alt text](demo/linux/installed.png "My Simple Tasks Manager")
+>![alt text](demo/linux/installed.png "My Simple Tasks Manager")
 
 ### The result:
 
-![alt text](demo/linux/result.png "My Simple Tasks Manager")
+>![alt text](demo/linux/result.png "My Simple Tasks Manager")
 
 ---
 
 ## Mac - Pictures demo
 
 >**installation**
-
-![alt text](demo/mac/install.png "My Simple Tasks Manager")
+>
+>![alt text](demo/mac/install.png "My Simple Tasks Manager")
 
 >**Your applications folder**
-
-![alt text](demo/mac/applications-folder.png "My Simple Tasks Manager")
+>
+>![alt text](demo/mac/applications-folder.png "My Simple Tasks Manager")
 
 >**Add to bottom bar**
-
-![alt text](demo/mac/add-to-bar.png "My Simple Tasks Manager")
+>
+>![alt text](demo/mac/add-to-bar.png "My Simple Tasks Manager")
 
 >**Result**
-
-![alt text](demo/mac/result.png "My Simple Tasks Manager")
+>
+>![alt text](demo/mac/result.png "My Simple Tasks Manager")
 
 ---
 
 ## Windows - Pictures demo
 
 >**Installation...**
-
-![alt text](demo/windows/install.png "My Simple Tasks Manager")
+>
+>![alt text](demo/windows/install.png "My Simple Tasks Manager")
 
 >**The result**
-
-![alt text](demo/windows/result.png "My Simple Tasks Manager")
+>
+>![alt text](demo/windows/result.png "My Simple Tasks Manager")
 
 ---
 
