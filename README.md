@@ -35,7 +35,7 @@
 ---
 
 ## User guide?
->**For the complete user guide follow [this link](https://github.com/rodolphe37/my-simple-tasks-manager-#update).**
+>**For the complete user guide follow [this link](https://github.com/rodolphe37/my-simple-tasks-manager-).**
 >
 >This is My Simple Tasks Manager Desktop version
 
