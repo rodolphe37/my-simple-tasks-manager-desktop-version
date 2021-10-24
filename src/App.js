@@ -8,7 +8,6 @@ import ok from "./components/assets/ok.svg";
 import supp from "./components/assets/supp.svg";
 import BacklogImg from "./components/assets/backlog.svg";
 import Alert from "./components/alertComponent/customAlert/Alert";
-import PwaLogo from "./components/assets/pwa-pass-3.svg";
 import TimeTracker from "./components/timeTracker/TimeTracker";
 import NoteComponent from "./components/NoteComponent/NoteComponent";
 import automaticTrackTimerAtom from "./statesManager/atoms/automaticTrackTimerAtom";
@@ -19,13 +18,8 @@ import FloatingButton from "./components/githubFloatingButton/FloatingButton";
 import openDashAtom from "./statesManager/atoms/openDashAtom";
 import Dashboard from "./components/dashboard/Dashboard";
 import useDateTime from "./hooks/useDateTime";
-// import ReactGA from "react-ga";
 import useMobile from "./hooks/useMobile";
 import NoMobile from "./components/assets/smartphone.svg";
-
-// const TRACKING_ID = `${process.env.REACT_APP_TRACKING_GA}`;
-// ReactGA.initialize(TRACKING_ID);
-// ReactGA.pageview(window.location.pathname);
 
 const StyledLayout = styled(Layout)`
   /* We can't use "height: 100vh; width: 100vw;" here.
@@ -203,12 +197,6 @@ function App() {
                 <img className="logo" src={BacklogImg} alt="" />
                 <strong>My Simple Tasks manager</strong>
                 <sub>v2.2</sub>
-              </div>
-
-              <div className="ribbon ribbon-top-right">
-                <span>
-                  <img className="picture-ribbon" src={PwaLogo} alt="ribbon" />
-                </span>
               </div>
             </div>
           </StyledHeader>
