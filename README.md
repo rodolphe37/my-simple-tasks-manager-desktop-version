@@ -14,7 +14,7 @@
 ## Widget Created with Electron.js & React.js
 
 
-#  <img  style =" float: left;  margin-right: 22px " src="demo/camcorder.svg" alt="drawing" height="50" width="50"/>My Simple Tasks Manager
+#  <img  style =" float: left;  margin-right: 22px " src="demo/backlog.svg" alt="drawing" height="50" width="50"/>My Simple Tasks Manager
 
 ---
 
