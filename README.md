@@ -212,7 +212,7 @@ MIT
 
 ## My other projects:
 
->### My Simple Task Manager
+>### My Simple Task Manager (pwa)
 >https://github.com/rodolphe37/my-simple-tasks-manager-
 
 >### My Simple Tutorial Creator
