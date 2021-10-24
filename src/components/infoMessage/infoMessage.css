@@ -1,0 +1,133 @@
+::-webkit-scrollbar {
+  width: 6px;
+  border-left: 1px solid #e6ecf8;
+  cursor: pointer;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #36373b;
+}
+
+.offlineMessCOntainer {
+  position: absolute;
+  top: 7em;
+  z-index: 99999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  height: 70px;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.offline {
+  position: relative;
+  padding: 1rem 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+  box-shadow: 1px 2px 6px grey;
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.offline > svg {
+  width: 44px;
+  margin-right: 15px;
+}
+
+.offline .primary,
+.offline .info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.info > svg,
+.primary > svg {
+  margin-bottom: 15px;
+}
+
+.danger {
+  color: #842029;
+  background-color: #f8d7da;
+  border-color: #f5c2c7;
+  width: 69%;
+  padding-left: 39px;
+}
+.primary {
+  color: #084298;
+  background-color: #cfe2ff;
+  border-color: #b6d4fe;
+  width: 69%;
+  padding-left: 39px;
+}
+
+.success {
+  color: #0f5132;
+  background-color: #d1e7dd;
+  border-color: #badbcc;
+  width: 69%;
+  padding-left: 39px;
+}
+.warning {
+  color: #664d03;
+  background-color: #fff3cd;
+  border-color: #ffecb5;
+  width: 69%;
+  padding-left: 39px;
+}
+.info {
+  color: #055160;
+  background-color: #cff4fc;
+  border-color: #b6effb;
+  text-align: center;
+}
+
+.slide-in-bck-center {
+  animation: slide-in-bck-center 0.7s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+}
+@keyframes slide-in-bck-center {
+  0% {
+    transform: translateZ(600px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateZ(0);
+    opacity: 1;
+  }
+}
+.none {
+  display: none;
+}
+.overlay {
+  width: 100%;
+  height: 100vh;
+  position: fixed;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 99;
+}
+
+.content-infoMessage-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 17px;
+  transform: translate(-54px, -11px);
+  width: 82%;
+}
+
+.scale-in-center {
+  animation: scale-in-center 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+}
+@keyframes scale-in-center {
+  0% {
+    transform: scale(0);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}

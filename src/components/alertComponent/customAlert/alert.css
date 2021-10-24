@@ -1,0 +1,163 @@
+.react-confirm-alert-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 99;
+  background: rgb(60 58 58 / 65%) !important;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  justify-content: center;
+  -ms-align-items: center;
+  align-items: center;
+  opacity: 0;
+  animation: react-confirm-alert-fadeIn 0.5s 0.2s forwards;
+}
+.react-confirm-alert {
+  top: 0;
+  position: fixed;
+  animation: slide-in-top 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+}
+@media screen and (min-width: 750px) {
+  .react-confirm-alert {
+    max-width: 34% !important;
+  }
+}
+@media screen and (min-width: 750px) {
+  .react-confirm-alert {
+    max-width: 32%;
+  }
+}
+@keyframes slide-in-top {
+  0% {
+    transform: translateY(-1000px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(2px);
+    opacity: 1;
+  }
+}
+.alert-content {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  position: relative;
+  margin-bottom: 23px;
+  flex-direction: column;
+}
+.react-confirm-alert-body {
+  width: 100%;
+  /* padding: 60px; */
+  text-align: center;
+  box-shadow: 1px 1px 8px rgb(80 77 77 / 95%);
+  border-radius: 10px;
+  color: white;
+  font-size: 18px;
+}
+
+.react-confirm-alert-button-group {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.react-confirm-alert-button-group > button {
+  border: none;
+  display: inline-block;
+  padding: 6px 18px;
+  color: white;
+  margin-right: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  text-transform: uppercase;
+  width: 150px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.react-confirm-alert-button-group > button:nth-child(1) {
+  background-color: #186b00;
+  font-size: 14px;
+}
+
+.react-confirm-alert-button-group > button:nth-child(2) {
+  background-color: #941111;
+  font-size: 12px;
+}
+
+.alert-content > h1 {
+  margin: 0 0 10px;
+  text-align: left;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  width: 301px !important;
+  margin-left: 95px;
+}
+.react-confirm-alert-body > p {
+  font-size: 16px;
+}
+
+.react-confirm-alert-img-logo {
+  width: 140px;
+  animation: App-logo-spin infinite 20s linear;
+  position: absolute;
+  left: -31px;
+}
+
+@media screen and (max-width: 750px) {
+  .react-confirm-alert-body {
+    width: 300px;
+    font-size: 15px;
+    padding: 50px 20px 20px 20px;
+  }
+  .react-confirm-alert-body > h1 {
+    padding-bottom: 5px;
+    font-size: 22px;
+    letter-spacing: 0.02em;
+    margin-top: 10px;
+  }
+  .react-confirm-alert-button-group {
+    margin: auto;
+    /* flex-direction: column; */
+    align-items: center;
+  }
+  .react-confirm-alert-button-group > button {
+    margin-bottom: 5px;
+    font-size: 17px;
+  }
+  /* .react-confirm-alert-button-group > button:nth-child(1) {
+    margin-top: 20px;
+  } */
+  .react-confirm-alert-img-logo {
+    width: 112px;
+  }
+  .alert-content > h1 {
+    width: 158px !important;
+    margin-left: 70px;
+    text-align: center;
+    font-size: 11px;
+  }
+  .react-confirm-alert-body > p {
+    font-size: 13px;
+    margin-bottom: 14px !important;
+  }
+}
+.logoApp {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.subtitleAlert {
+  max-width: 267px;
+  margin-left: 14%;
+}

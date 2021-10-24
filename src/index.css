@@ -1,0 +1,22 @@
+::-webkit-scrollbar {
+  width: 6px;
+  border-left: 1px solid #e6ecf8;
+  cursor: pointer;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #36373b;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
