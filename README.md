@@ -18,6 +18,13 @@
 
 ---
 
+## :computer: Online sites
+
+
+**You can use My Simple Task Manager for FREE** **[here](https://my-simple-tasks-manager.netlify.app/)**,
+
+---
+
 ## User guide?
 >**For the complete user guide follow [this link](https://github.com/rodolphe37/my-simple-tasks-manager-).**
 >
@@ -47,6 +54,7 @@
 >>>Unzip the file, double click on it!
 >>>
 >>>And that's it, it's installed.
+
 ---
 
 ## :heavy_exclamation_mark: Demo on Ubuntu (.deb - all debian versions)
