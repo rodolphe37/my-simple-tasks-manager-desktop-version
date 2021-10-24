@@ -60,7 +60,7 @@
 >>
 >>***Windows - Download the .exe file [Here](https://drive.google.com/file/d/1LX7iLvDO75tMEZi2lLr8RPK71VC_bMy4/view?usp=sharing)***
 >>
->>>Unzip the file, double click on it!
+>>>Double click on the exe file!
 >>>
 >>>And that's it, it's installed.
 
