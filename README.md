@@ -218,6 +218,9 @@ MIT
 >### My Simple Tutorial Creator
 >https://github.com/rodolphe37/my-simple-tutorial-creator
 
+>### My Simple Cam (Desktop app)
+>https://github.com/rodolphe37/my-simple-cam-dektop-app
+
 >### QRCode Tools
 >https://github.com/rodolphe37/qr-code-tools
 
