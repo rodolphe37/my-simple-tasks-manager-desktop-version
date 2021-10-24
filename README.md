@@ -44,7 +44,7 @@
 
 >## **:heavy_exclamation_mark: Your operating system version, Linux, MacOs & Windows.**
 >
->>***Linux - Download the .deb file [Here](https://drive.google.com/file/d/1CQxkLmYGq5-z41xlR0XIBcUL-Qv-aP_5/view?usp=sharing)***
+>>***Linux - Download the .deb file [Here](https://drive.google.com/file/d/1U1Q_qIp0AgpKdRWzTsPfp0r7odNntLLg/view?usp=sharing)***
 >>
 >>>Double click on the file & click on install button on the window that appear!
 >>>
