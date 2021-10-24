@@ -125,7 +125,7 @@
 > You can uninstall the app with:
 
 ```
-sudo apt-get remove my-simple-cam
+sudo apt-get remove my-simple-tasks-manager
 ```
 
 ### :heavy_exclamation_mark:  How to uninstall the Application on Mac?
