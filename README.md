@@ -14,7 +14,15 @@
 ## Widget Created with Electron.js & React.js
 
 
-#  <img  style =" float: left;  margin-right: 22px " src="demo/backlog.svg" alt="drawing" height="50" width="50"/>My Simple Tasks Manager
+#  <img  style =" float: left;  margin-right: 22px " src="demo/backlog.svg" alt="drawing" height="50" width="50"/>My Simple Tasks Manager - Desktop version
+
+---
+
+### :bookmark: This is a great little application when you are working alone on projects where you need to organize your tasks, as well as track the time you spend on a project to know the actual time you spent on it.
+
+
+
+![alt text](demo/demo.gif "My Simple Tasks Manager")
 
 ---
 
