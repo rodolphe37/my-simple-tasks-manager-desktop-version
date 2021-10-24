@@ -11,7 +11,7 @@
 
 ---
 
-## Widget Created with Electron.js & React.js
+## Application Created with Electron.js & React.js
 
 
 #  <img  style =" float: left;  margin-right: 22px " src="demo/backlog.svg" alt="drawing" height="50" width="50"/>My Simple Tasks Manager - Desktop version
@@ -72,7 +72,7 @@
 
 >![alt text](demo/linux/install3.png "My Simple Tasks Manager")
 
-### Start the widget:
+### Start the Application:
 
 >![alt text](demo/linux/installed.png "My Simple Tasks Manager")
 
@@ -118,9 +118,9 @@
 
 ---
 
-## Uninstall the Widget
+## Uninstall the Application
 
-### :heavy_exclamation_mark:  How to uninstall the widget on Ubuntu (Linux)?
+### :heavy_exclamation_mark:  How to uninstall the Application on Ubuntu (Linux)?
 
 > You can uninstall the app with:
 
@@ -128,12 +128,12 @@
 sudo apt-get remove my-simple-cam
 ```
 
-### :heavy_exclamation_mark:  How to uninstall the widget on Mac?
+### :heavy_exclamation_mark:  How to uninstall the Application on Mac?
 
 > Just delete the app icon on application folder
 
 
-### :heavy_exclamation_mark:  How to uninstall the widget on Windows?
+### :heavy_exclamation_mark:  How to uninstall the Application on Windows?
 
 > The classic way, like all other Windows applications.
 
