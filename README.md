@@ -108,6 +108,10 @@
 >
 >![alt text](demo/windows/install.png "My Simple Tasks Manager")
 
+>**Your app on desktop**
+>
+>![alt text](demo/windows/app.png "My Simple Tasks Manager")
+
 >**The result**
 >
 >![alt text](demo/windows/result.png "My Simple Tasks Manager")
