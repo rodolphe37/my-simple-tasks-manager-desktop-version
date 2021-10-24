@@ -1,5 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
-
 .CurrencyConverter {
   min-height: 22vh;
   width: 56%;
@@ -14,7 +12,9 @@
   left: 22%;
 }
 .heading {
-  font-family: "Pacifico", cursive;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
   font-size: 35px;
 }
 .container-converter {
