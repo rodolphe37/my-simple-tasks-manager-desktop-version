@@ -1,10 +1,10 @@
  <img  style =" margin-top: -12px; margin-right: 22px " src="demo/electronjs.svg" alt="drawing" height="60" width="150"/>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/rodolphe37/my-simple-cam-dektop-app/blob/main/LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/rodolphe37/my-simple-cam-dektop-app/graphs/commit-activity)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/rodolphe37/my-simple-tasks-manager-desktop-version/blob/main/LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/rodolphe37/my-simple-tasks-manager-desktop-version/graphs/commit-activity)
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
-[![GitHub issues](https://badgen.net/github/issues/rodolphe37/my-simple-cam-dektop-app/)](https://github.com/rodolphe37/my-simple-cam-dektop-app/issues)
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/rodolphe37/my-simple-cam-dektop-app)
+[![GitHub issues](https://badgen.net/github/issues/rodolphe37/my-simple-tasks-manager-desktop-version/)](https://github.com/rodolphe37/my-simple-tasks-manager-desktop-version/issues)
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/rodolphe37/my-simple-tasks-manager-desktop-version)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
 <img   src="https://badges.aleen42.com/src/react.svg" alt="drawing" height="20" width="65"/>
@@ -28,7 +28,7 @@
 
 >## **:heavy_exclamation_mark: Your operating system version, Linux, MacOs & Windows.**
 >
->>***Linux - Download the .deb file [Here](https://github.com/rodolphe37/my-simple-cam-dektop-app/blob/main/widget-versions/linux/my-simple-cam_0.1.0_amd64.deb?raw=true)***
+>>***Linux - Download the .deb file [Here](https://drive.google.com/file/d/1CQxkLmYGq5-z41xlR0XIBcUL-Qv-aP_5/view?usp=sharing)***
 >>
 >>>Double click on the file & click on install button on the window that appear!
 >>>
@@ -36,13 +36,13 @@
 >>
 >>---
 >>
->>***Mac - Download the .dmg file [Here](https://drive.google.com/file/d/1MbXHJgRyfXUr4ICRl4r7UJAi5gNz_SBR/view?usp=sharing)***
+>>***Mac - Download the .dmg file [Here](https://drive.google.com/file/d/11j_eqhYRHAGu8_vETbqZoMI2EqweNv2L/view?usp=sharing)***
 >>
 >>> Classical installation, like other app for Mac.
 >>
 >>---
 >>
->>***Windows - Download the .exe file [Here](https://drive.google.com/file/d/19-iPbELA5cFTwXGlw0p08b-c6KjPk43M/view?usp=sharing)***
+>>***Windows - Download the .exe file [Here](https://drive.google.com/file/d/1LX7iLvDO75tMEZi2lLr8RPK71VC_bMy4/view?usp=sharing)***
 >>
 >>>Unzip the file, double click on it!
 >>>
