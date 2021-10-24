@@ -30,7 +30,7 @@
 ## :computer: Online sites
 
 
-**You can use My Simple Task Manager for FREE** **[here](https://my-simple-tasks-manager.netlify.app/)**,
+**You can see My Simple Task Manager demo** **[here](https://my-simple-tasks-manager.netlify.app/)**,
 
 ---
 
