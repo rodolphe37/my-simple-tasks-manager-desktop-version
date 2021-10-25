@@ -15,6 +15,13 @@
 
 ## Application Created with Electron.js & React.js
 
+---
+
+>***Important***
+>This version is on experimental test, is no stable at this time (the pwa version is stable version)
+
+---
+
 
 #  <img  style =" float: left;  margin-right: 22px " src="demo/backlog.svg" alt="drawing" height="50" width="50"/>My Simple Tasks Manager - Desktop version
 
