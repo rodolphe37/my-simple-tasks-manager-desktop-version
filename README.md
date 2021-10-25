@@ -5,7 +5,8 @@
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![GitHub issues](https://badgen.net/github/issues/rodolphe37/my-simple-tasks-manager-desktop-version/)](https://github.com/rodolphe37/my-simple-tasks-manager-desktop-version/issues)
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/rodolphe37/my-simple-tasks-manager-desktop-version)
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)![GitHub last commit (branch)](https://img.shields.io/github/last-commit/rodolphe37/my-simple-tasks-manager-desktop-version/main)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/rodolphe37/my-simple-tasks-manager-desktop-version/main)
 
 
 <img   src="https://badges.aleen42.com/src/react.svg" alt="drawing" height="20" width="65"/>
