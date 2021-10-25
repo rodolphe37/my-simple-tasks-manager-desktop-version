@@ -37,7 +37,7 @@
 ---
 
 ## User guide?
->**For the complete user guide follow [this link](https://github.com/rodolphe37/my-simple-tasks-manager-userguide).**
+>**For the complete user guide follow [this link](https://github.com/rodolphe37/my-simple-tasks-manager-userguide/blob/main/README.md).**
 >
 >The use is identical to the web version (pwa)
 
