@@ -127,7 +127,7 @@
 > You can uninstall the app with:
 
 ```
-sudo apt-get remove my-simple-tasks-manager
+sudo apt-get remove my-simple-tasks-manager-desktop
 ```
 
 ### :heavy_exclamation_mark:  How to uninstall the Application on Mac?
