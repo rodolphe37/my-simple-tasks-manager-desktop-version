@@ -1,6 +1,15 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "My Simple Tasks Manager",
+  "name": "My simple Tasks Manager",
+  "shortcuts": [
+      {
+        "name": "Home",
+        "short_name": "Home section",
+        "description": "Go to home section",
+        "url": "/",
+        "icons": [{ "src": "/logo192.png", "sizes": "192x192" }]
+      }
+    ],
   "icons": [
     {
       "src": "favicon.ico",
@@ -10,7 +19,8 @@
     {
       "src": "logo192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+      "purpose": "any maskable"
     },
     {
       "src": "logo512.png",
@@ -18,8 +28,8 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#7e30db",
+    "background_color": "#282c34"
 }
